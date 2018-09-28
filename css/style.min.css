@@ -2381,7 +2381,7 @@ h1.splash {
   line-height: 60vh;
   font-size: 3rem;
   font-weight: 400;
-  color: #f22f21
+  color: ##ff3db7
 }
 
 h1.splash small {
@@ -2393,7 +2393,7 @@ h1.splash small {
 h1.splash::first-letter {
   font-size: 1.33em;
   color: #fff;
-  background: #f22f21;
+  background: ##ff3db7;
   border-radius: 6px;
   padding: 0 10px
 }
